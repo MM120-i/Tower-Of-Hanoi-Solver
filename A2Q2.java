@@ -1,16 +1,4 @@
-/**
- * EECS 2011 A, Fall 2022.
- * Assignment 2, Question 2 starter code.
- * Please read carefully the instructions in the assignment handout
- * and the starter code.
- */
-
 import java.util.ArrayList;
-// DO NOT ADD ANY package
-// DO NOT ADD ANY import
-/**
- * The A2Q2 class
- */
 public class A2Q2 {
 
     /**
